@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="range"] {
+    width: 80%;
+    margin: 10px auto;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.factor-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.factor-bar {
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+#wealthFactor {
+    background-color: rgb(40, 173, 40);
+}
+
+#poorFactor {
+    background-color: rgb(187, 46, 46);
+}
+
+#environment {
+    font-size: 1.5em;
+}
