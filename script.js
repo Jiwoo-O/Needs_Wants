@@ -37,7 +37,7 @@ function updateValues() {
     updateFactors(need, want);
 
     // 환경 계산 (간단한 예시)
-    let environmentStatus = "Normal";
+    let environmentStatus = "-";
     if (need > 70 && want < 30) {
         environmentStatus = "Securing and improving the quality of life for all";
     } else if (need >= 30 && want <= 70) {

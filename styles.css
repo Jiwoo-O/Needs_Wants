@@ -24,13 +24,17 @@ button {
 }
 
 #wealthFactor {
-    background-color: rgb(40, 173, 40);
+    background-color: rgb(40, 142, 173);
 }
 
 #poorFactor {
-    background-color: rgb(187, 46, 46);
+    background-color: rgb(177, 43, 43);
 }
 
 #environment {
     font-size: 1.5em;
+}
+
+h1 {
+    font-size: 2em;
 }
